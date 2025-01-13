@@ -1,0 +1,19 @@
+body {
+  background-color: darkgrey;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: blue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+div.first-div {
+  color: pink;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+}
